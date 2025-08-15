@@ -1,0 +1,3 @@
+wsj-tech: https://feeds.content.dowjones.io/public/rss/RSSWSJD
+tldr: https://tldrnewsletter.substack.com/feed
+wired: https://www.wired.com/feed/tag/ai/latest/rss
