@@ -24,4 +24,4 @@ The agent team is the editing boundary: it receives the collected article materi
 
 - A normal run is `uv run main.py`; use a temporary or ignored output directory while experimenting.
 - Feed availability, model credentials, provider behavior, and generated text are external or run-specific evidence. Do not describe a digest as complete when collection or model calls failed.
-- The repository currently has no committed automated test suite; a future behavior change should add a focused test or an explicit self-check before expanding the workflow.
+- The Python application has no committed automated test suite. Repository automation has 22 safety tests: run `node --test .github/tests/delete-merged-branch.node-test.mjs`. Add a focused application test when changing runtime behavior.
