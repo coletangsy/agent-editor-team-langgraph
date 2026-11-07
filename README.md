@@ -54,3 +54,9 @@ agent-editor-team-langgraph/
 ## License
 
 MIT License
+
+## Maintainer Documentation
+
+- [Repository guidance](AGENTS.md)
+- [Architecture](ARCHITECTURE.md)
+- [Changelog](CHANGELOG.md)
