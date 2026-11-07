@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### Added
+
+- Added merged same-repository branch cleanup with pre-delete branch checks, an explicit SHA lease, and 22 regression tests.
+
 ### Documentation
 
 - Added repository guidance, an architecture overview, and this changelog on 2026-11-07.
